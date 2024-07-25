@@ -1,0 +1,10 @@
+				@font-face {
+					font-family: 'cascadia';
+					src: url('/wp-content/uploads/useanyfont/9192Cascadia.woff2') format('woff2'),
+						url('/wp-content/uploads/useanyfont/9192Cascadia.woff') format('woff');
+					  font-display: auto;
+				}
+
+				.cascadia{font-family: 'cascadia' !important;}
+
+		
